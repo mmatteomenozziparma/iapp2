@@ -18,7 +18,7 @@ handleSubmit(email,e){
 handleSubmit(e){
 
 }
-function CardAppS() {
+function CardS() {
   return(
         <div className="wrapper">
           <CardUv/>
